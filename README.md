@@ -7,7 +7,7 @@ The primary design goals were to:
 
 Achieve >95% efficiency (realized: 96.9%)
 
-Maintain output ripple below 500 mV (realized: <100 mV)
+Maintain output ripple below 500 mV (realized: <50 mV)
 
 This design incorporates aerospace-relevant engineering principles, including:
 
