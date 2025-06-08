@@ -15,6 +15,7 @@ This project presents the design, simulation, and optimization of a high-efficie
 - Full technical write-up
 - Waveform Gallery
 - Documentation
+- Ltspice Files
 
 ##  Highlights
 - Voltage-threshold-based phase delay logic
