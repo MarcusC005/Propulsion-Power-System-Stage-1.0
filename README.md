@@ -8,10 +8,13 @@ This project presents the design, simulation, and optimization of a high-efficie
 - Power: 300 W
 - Topology: Four-phase interleaved boost
 - Simulated Efficiency: 96.9%
-- Output Ripple: <100 mV
+- Output Ripple: <50 mV
 
 ##  Documentation
-- See attached files – Full technical write-up
+- See attached files –
+- Full technical write-up
+- Waveform Gallery
+- Documentation
 
 ##  Highlights
 - Voltage-threshold-based phase delay logic
